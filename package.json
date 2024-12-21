@@ -1,6 +1,6 @@
 {
-  "name": "neodeliver-expo-sdk",
-  "version": "1.0.0",
+  "name": "@neodeliver/expo-sdk",
+  "version": "1.0.1",
   "description": "Neodeliver Expo SDK to catch notification stats",
   "main": "./src/index.js",
   "scripts": {
